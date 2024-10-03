@@ -10,7 +10,7 @@ This is where I will be documenting my project while learning Data Analysis with
 - Github for Portfollo Building
   
 ### Data Cleaning and Preparations
-In the initial phase of the Data Cleaning and Preparations we the following action;
+In the initial phase of the Data Cleaning and Preparations we perform the following action;
 1. Data loading and Inspection
 2. Handling missing variables
 3. Data Cleaning and formatting
